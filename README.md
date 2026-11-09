@@ -6,6 +6,7 @@
 меняющихся от Zнач с шагом HZ. Структуру данных для представления данных
 выбирайте самостоятельно.
 
-24. y = (20*sqrt(x)*sin(z*z/2)-1.3)/(pow(z,1.0/5)+exp(3*x)+fabs(cos(x)))
+24. <img width="211" height="67" alt="image" src="https://github.com/user-attachments/assets/ae00c823-2487-4758-8aa3-9342b90783f3" />
+
 
 This project is licensed under the MIT License. See the LICENSE file for details.
